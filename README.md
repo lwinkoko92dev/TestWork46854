@@ -1,4 +1,4 @@
-# StoreFront Child Theme - Sampel Test
+# StoreFront Child Theme - Sample Test
 
 ## Description
 
