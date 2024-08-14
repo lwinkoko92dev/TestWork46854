@@ -37,3 +37,7 @@ The **StoreFront Child Theme** is a WordPress theme designed to extend and custo
 
 ### [1.0.0] - 2024-08-15
 - Initial release with core functionalities including custom post types, custom template, weather API integration, AJAX search, and widget support.
+
+## Private Link
+
+https://docs.google.com/document/d/1Y6L4PFS5DyvJV_xicNKKd91AtAw2lhFqNLM0PwSVyCs/edit?usp=sharing
