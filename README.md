@@ -2,7 +2,7 @@
 
 ## Description
 
-The **StoreFront Child Theme** is a WordPress theme designed to extend and customize the functionality of the StoreFront parent theme. This child theme includes various enhancements and customizations tailored for specific requirements.
+This **StoreFront Child Theme - Sample Test** is a WordPress theme designed to extend and customize the functionality of the StoreFront parent theme. This child theme includes various enhancements and customizations tailored for specific requirements.
 
 ## Features
 
